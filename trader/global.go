@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/miaolz123/conver"
-	"github.com/phonegapX/QuantBot/api"
-	"github.com/phonegapX/QuantBot/constant"
-	"github.com/phonegapX/QuantBot/model"
+	"github.com/jacob210/QuantBot/api"
+	"github.com/jacob210/QuantBot/constant"
+	"github.com/jacob210/QuantBot/model"
 	"github.com/robertkrimen/otto"
 )
 

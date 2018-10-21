@@ -2,7 +2,7 @@
 
 ## 项目地址
 
-https://github.com/phonegapX/QuantBot
+https://github.com/jacob210/QuantBot
 
 ## 登录
 

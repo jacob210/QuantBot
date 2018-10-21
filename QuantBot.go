@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/phonegapX/QuantBot/handler"
+	"github.com/jacob210/QuantBot/handler"
 )
 
 func main() {

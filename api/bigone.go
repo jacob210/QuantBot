@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/miaolz123/conver"
-	"github.com/phonegapX/QuantBot/api/BigoneAPI"
-	"github.com/phonegapX/QuantBot/constant"
-	"github.com/phonegapX/QuantBot/model"
+	"github.com/jacob210/QuantBot/api/BigoneAPI"
+	"github.com/jacob210/QuantBot/constant"
+	"github.com/jacob210/QuantBot/model"
 )
 
 // BigOne the exchange struct of big.one

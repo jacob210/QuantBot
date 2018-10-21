@@ -1,4 +1,4 @@
-package: github.com/phonegapX/QuantBot
+package: github.com/jacob210/QuantBot
 ignore:
 #- golang.org/x/net/publicsuffix
 #- google.golang.org/appengine/cloudsql

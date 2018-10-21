@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	"github.com/hprose/hprose-golang/rpc"
-	"github.com/phonegapX/QuantBot/constant"
-	"github.com/phonegapX/QuantBot/model"
+	"github.com/jacob210/QuantBot/constant"
+	"github.com/jacob210/QuantBot/model"
 )
 
 type logger struct{}
