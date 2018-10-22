@@ -1,3 +1,7 @@
+2018年10月21日 在前人开源的基础上进行了少量修改，以适应linux服务器的部署，并进行相应的测试。
+
+项目测试地址：quant.hemabit.com，账号：test，密码：test。
+
 # QuantBot
 
 最近研究量化交易，学习了很好的一个项目：[Samaritan](https://github.com/miaolz123/samaritan)
